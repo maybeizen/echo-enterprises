@@ -1,2 +1,2 @@
-# echo-workshop
-The single place where every Echo product will be placed and held.
+# Echo Workshop
+- Echo Workshop is a team of highly trained developers/programmers that specialize in making high-quality content with perfect User Experiences.
