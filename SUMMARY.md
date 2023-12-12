@@ -2,7 +2,8 @@
 
 ## 💾 HOST WIKI's <a href="#host-wiki" id="host-wiki"></a>
 
-* [Page 4](README.md)
+* [📍 Echo Host](README.md)
+* [📍 Frequently Asked Questions](host-wiki/frequently-asked-questions.md)
 
 ## 🤖 BOT WIKI's <a href="#bot-wiki" id="bot-wiki"></a>
 
