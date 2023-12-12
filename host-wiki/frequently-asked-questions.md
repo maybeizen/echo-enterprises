@@ -9,7 +9,7 @@ Below are some of the questions we are frequently asked about Echo Host:
 {% hint style="success" %}
 **Ideas:**
 
-Have any ideas for us? Let us know in the Discord Server!
+Have any ideas for us? Let us know in the [Discord Server!](https://discord.echoenterprises.net)
 {% endhint %}
 
 ## How much is Echo Host?
