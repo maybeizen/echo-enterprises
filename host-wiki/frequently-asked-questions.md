@@ -1,7 +1,3 @@
----
-description: FAQ for Echo Host
----
-
 # 📍 Frequently Asked Questions
 
 Below are some of the questions we are frequently asked about Echo Host:

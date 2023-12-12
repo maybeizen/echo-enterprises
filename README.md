@@ -1,7 +1,3 @@
----
-description: Some basic information about Echo Host.
----
-
 # 📍 Echo Host
 
 The Best, most high-quality hosting provider with competitive prices.\
