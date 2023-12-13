@@ -7,7 +7,9 @@
 
 ## 🤖 BOT WIKI's <a href="#bot-wiki" id="bot-wiki"></a>
 
-* [Page 1](bot-wiki/page-1.md)
+* [📍 Echo Bots](bot-wiki/echo-bots.md)
+* [🤖 Dawn](bot-wiki/dawn/README.md)
+  * [Page](bot-wiki/dawn/page.md)
 
 ## 💻 SERVER WIKI's <a href="#server-wiki" id="server-wiki"></a>
 
