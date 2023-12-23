@@ -3,8 +3,8 @@
 ## 🤖 BOT WIKI's <a href="#bot-wiki" id="bot-wiki"></a>
 
 * [📍 Echo Bots](README.md)
-  * [🤖 Dawn](bot-wiki/echo-bots/dawn/README.md)
-    * [ℹ Basic Info](bot-wiki/echo-bots/dawn/basic-info.md)
+  * [🤖 Dawn](bot-wiki/dawn/README.md)
+    * [ℹ Basic Info](bot-wiki/dawn/page.md)
     * [📍 Commands](bot-wiki/echo-bots/dawn/commands/README.md)
       * [⚙ Utility](bot-wiki/echo-bots/dawn/commands/utility.md)
       * [🛡 Moderation](bot-wiki/echo-bots/dawn/commands/moderation.md)

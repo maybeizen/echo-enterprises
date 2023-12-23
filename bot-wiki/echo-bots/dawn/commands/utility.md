@@ -9,6 +9,7 @@ Here are all of the utility commands which you can use with Dawn:
 * `staff_role` - Set the configurable staff role for Dawn (Pinged in Tickets, etc).
 * `suggestion_channel` - Configure the Suggestion System
 * `jointest` - Test the Welcome System
+* `bug_report` - Report a bug to the Dawn Developers.
 
 ### Other Functions:
 

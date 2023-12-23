@@ -8,8 +8,8 @@ Echo Enterprises also develops Discord Bots, and currently, we have one, general
 >
 > Run `/help` to view commands.
 
-{% content-ref url="bot-wiki/echo-bots/dawn/" %}
-[dawn](bot-wiki/echo-bots/dawn/)
+{% content-ref url="bot-wiki/dawn/" %}
+[dawn](bot-wiki/dawn/)
 {% endcontent-ref %}
 
 ### Prosper

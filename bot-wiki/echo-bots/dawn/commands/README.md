@@ -24,3 +24,4 @@ Dawn uses **SLASH COMMANDS**, which are easy to use and are approved by Discord.
 [user.md](user.md)
 {% endcontent-ref %}
 
+Interested in seeing how **Dawn** works? View the source code **HERE**
