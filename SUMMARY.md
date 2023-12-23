@@ -1,15 +1,15 @@
 # Table of contents
 
-## 💾 HOST WIKI's <a href="#host-wiki" id="host-wiki"></a>
-
-* [📍 Echo Host](README.md)
-* [📍 Frequently Asked Questions](host-wiki/frequently-asked-questions.md)
-
 ## 🤖 BOT WIKI's <a href="#bot-wiki" id="bot-wiki"></a>
 
-* [📍 Echo Bots](bot-wiki/echo-bots.md)
-* [🤖 Dawn](bot-wiki/dawn/README.md)
-  * [Page](bot-wiki/dawn/page.md)
+* [📍 Echo Bots](README.md)
+  * [🤖 Dawn](bot-wiki/echo-bots/dawn/README.md)
+    * [ℹ Basic Info](bot-wiki/echo-bots/dawn/basic-info.md)
+    * [📍 Commands](bot-wiki/echo-bots/dawn/commands/README.md)
+      * [⚙ Utility](bot-wiki/echo-bots/dawn/commands/utility.md)
+      * [🛡 Moderation](bot-wiki/echo-bots/dawn/commands/moderation.md)
+      * [💰 Economy](bot-wiki/echo-bots/dawn/commands/economy.md)
+      * [👤 User](bot-wiki/echo-bots/dawn/commands/user.md)
 
 ## 💻 SERVER WIKI's <a href="#server-wiki" id="server-wiki"></a>
 

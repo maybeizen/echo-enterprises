@@ -1,32 +1,29 @@
-# 📍 Echo Host
+# 📍 Echo Bots
 
-The Best, most high-quality hosting provider with competitive prices.\
+Echo Enterprises also develops Discord Bots, and currently, we have one, general and multipurpose bot, and one Economy Bot in development.
 
+### Dawn Bot
 
-***
+> Dawn is the main bot that is always online, with the main features.
+>
+> Run `/help` to view commands.
 
-## Why Echo Host?
+{% content-ref url="bot-wiki/echo-bots/dawn/" %}
+[dawn](bot-wiki/echo-bots/dawn/)
+{% endcontent-ref %}
 
-* **Budget-Friendly Packages:**
+### Prosper
 
-> Enjoy the best of both worlds with Echo Host's pocket-friendly hosting plans. We believe that everyone deserves reliable and powerful hosting without burning a hole in their wallet.
+> `Prosper` is an upcoming fully customizable Economy bot.
+>
+> Type `/commands` to see all that Prosper offers.
 
-* **Tailored for Gamers:**&#x20;
+_All of our bots will use Slash Commands, there is no need to worry about prefixes._
 
-> Dive into the gaming world with confidence! Our game server hosting ensures low-latency, high-performance experiences for you and your fellow players. No more lag, just pure gaming bliss.
+### Links:
 
-* **Seamless Discord Bot Hosting:**&#x20;
+> Here are all the links that Dawn and all other bots are related to:
 
-> Developers, rejoice! Echo Host makes it easy to deploy and manage your Discord bots. Our platform is designed to support your creations, ensuring they run smoothly 24/7.
+* Documentation: [https://docs.echoenterprises.net/documentation/bot-wiki/dawn](https://docs.echoenterprises.net/documentation/bot-wiki/dawn)
+* Invite Dawn: [https://dsc.gg/dawnbot](https://dsc.gg/dawnbot)
 
-* **User-Friendly Control Panel:**&#x20;
-
-> Navigating through our hosting services is a breeze. Our intuitive control panel allows you to configure and manage your servers and bots effortlessly, putting you in complete control.
-
-* **Reliability Matters:**&#x20;
-
-> We understand that downtime is not an option. Echo Host boasts impressive uptime and reliability, ensuring that your gaming experiences and Discord communities are always online and thriving.
-
-#### Don't miss out on the hosting revolution! Join Echo Host today and redefine your gaming and Discord bot hosting experience.
-
-[https://host.echoenterprises.net/](https://host.echoenterprises.net)
