@@ -1,29 +1,19 @@
-# 📍 Echo Bots
+# 📍 Welcome to Echo Enterprises:
 
-Echo Enterprises also develops Discord Bots, and currently, we have one, general and multipurpose bot, and one Economy Bot in development.
+Echo Enterprises is a small team of highly trained professional Discord Bot Developers, Modpack Creators, and Server Providers.
 
-### Dawn Bot
+* We build our content/services for the **USER** and ensure everyone has an easy time finding, downloading, and using our content.
 
-> Dawn is the main bot that is always online, with the main features.
->
-> Run `/help` to view commands.
+As of `13.12.2023`, we own 3 different services/contents:
 
-{% content-ref url="bot-wiki/dawn/" %}
-[dawn](bot-wiki/dawn/)
-{% endcontent-ref %}
+## Echo Bots:
 
-### Prosper
+* A team of trained developers that create and develop high-quality Discord Bots, such as the ones in [#echo-bots](./#echo-bots "mention")
 
-> `Prosper` is an upcoming fully customizable Economy bot.
->
-> Type `/commands` to see all that Prosper offers.
+## Echo Modpacks:
 
-_All of our bots will use Slash Commands, there is no need to worry about prefixes._
+* Not a business, but a team of members with a deep understanding of Minecraft, and provide high-quality modpacks for free! [#echo-modpacks](./#echo-modpacks "mention")
 
-### Links:
+## Echo Servers:
 
-> Here are all the links that Dawn and all other bots are related to:
-
-* Documentation: [https://docs.echoenterprises.net/documentation/bot-wiki/dawn](https://docs.echoenterprises.net/documentation/bot-wiki/dawn)
-* Invite Dawn: [https://dsc.gg/dawnbot](https://dsc.gg/dawnbot)
-
+* NaN [#echo-servers](./#echo-servers "mention")

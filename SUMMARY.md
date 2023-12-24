@@ -1,8 +1,10 @@
 # Table of contents
 
+* [📍 Welcome to Echo Enterprises:](README.md)
+
 ## 🤖 BOT WIKI's <a href="#bot-wiki" id="bot-wiki"></a>
 
-* [📍 Echo Bots](README.md)
+* [📍 Echo Bots](<README (1).md>)
   * [🤖 Dawn](bot-wiki/dawn/README.md)
     * [ℹ Basic Info](bot-wiki/dawn/page.md)
     * [📍 Commands](bot-wiki/echo-bots/dawn/commands/README.md)
