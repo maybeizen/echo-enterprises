@@ -12,6 +12,10 @@
       * [🛡 Moderation](bot-wiki/echo-bots/dawn/commands/moderation.md)
       * [💰 Economy](bot-wiki/echo-bots/dawn/commands/economy.md)
       * [👤 User](bot-wiki/echo-bots/dawn/commands/user.md)
+  * [🤖 Prosper](bot-wiki/echo-bots/prosper/README.md)
+    * [ℹ Basic Info](bot-wiki/echo-bots/prosper/basic-info.md)
+    * [📍 Commands](bot-wiki/echo-bots/prosper/commands/README.md)
+      * [💰 Economy](bot-wiki/echo-bots/prosper/commands/economy.md)
 
 ## 💻 SERVER WIKI's <a href="#server-wiki" id="server-wiki"></a>
 
