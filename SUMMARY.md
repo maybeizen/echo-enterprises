@@ -16,11 +16,20 @@
     * [ℹ Basic Info](bot-wiki/echo-bots/prosper/basic-info.md)
     * [📍 Commands](bot-wiki/echo-bots/prosper/commands/README.md)
       * [💰 Economy](bot-wiki/echo-bots/prosper/commands/economy.md)
-
-## 💻 SERVER WIKI's <a href="#server-wiki" id="server-wiki"></a>
-
-* [Page 2](server-wiki/page-2.md)
+  * [🤖 Assistify](bot-wiki/echo-bots/assistify/README.md)
+    * [ℹ Basic Info](bot-wiki/echo-bots/assistify/basic-info.md)
+    * [💰 Premium](bot-wiki/echo-bots/assistify/premium.md)
+    * [📍 Commands](bot-wiki/echo-bots/assistify/commands/README.md)
+      * [🛡 Basic Moderation](bot-wiki/echo-bots/assistify/commands/basic-moderation.md)
+      * [✅ Verification](bot-wiki/echo-bots/assistify/commands/verification.md)
+      * [🦾 Auto-Moderation](bot-wiki/echo-bots/assistify/commands/auto-moderation.md)
 
 ## 🎁 MODPACK WIKI'S <a href="#modpack-wiki" id="modpack-wiki"></a>
 
-* [Page 3](modpack-wiki/page-3.md)
+* [📍 Simply Smoother](modpack-wiki/simply-smoother.md)
+* [📍 Expanded Vanilla](modpack-wiki/expanded-vanilla.md)
+* [📍 Expanded Farming](modpack-wiki/expanded-farming.md)
+
+## 💾 Server Wiki's <a href="#server-wiki" id="server-wiki"></a>
+
+* [☢ Radon Network](server-wiki/radon-network.md)
