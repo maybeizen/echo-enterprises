@@ -16,4 +16,4 @@ As of `13.12.2023`, we own 3 different services/contents:
 
 ## Echo Servers:
 
-* NaN [#echo-servers](./#echo-servers "mention")
+* [#echo-servers](./#echo-servers "mention")
