@@ -7,4 +7,4 @@ Echo Enterprises is a small team of highly trained professional Discord Bot Deve
 As of `13.12.2023`, we own 3 different services/contents:
 
 ## Interesting in what we provide?
-* Check out https://docs.echoenterprises.net
+* Check out https://wiki.echoenterprises.net
