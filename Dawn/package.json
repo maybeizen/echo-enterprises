@@ -1,0 +1,15 @@
+{
+  "name": "echo-enterprises",
+  "version": "1.0.0",
+  "description": "Echo Enterprises is a small team of highly trained professional Discord Bot Developers, Modpack Creators, and Server Providers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
