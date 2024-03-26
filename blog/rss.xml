@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Echo Enterprises Blog</title>
+        <link>https://docs.echoenterprises.net/blog</link>
+        <description>Echo Enterprises Blog</description>
+        <lastBuildDate>Tue, 26 Mar 2024 03:26:44 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Coming Soon]]></title>
+            <link>https://docs.echoenterprises.net/blog/coming-soon</link>
+            <guid>https://docs.echoenterprises.net/blog/coming-soon</guid>
+            <pubDate>Tue, 26 Mar 2024 03:26:44 GMT</pubDate>
+            <description><![CDATA[More information about our blog posts!]]></description>
+            <content:encoded><![CDATA[<p>Welcome to the official Echo Enterprises Blog!</p>
+<p>Here is where important updates will be posted relating to Echo Enterprises, such as new contents!</p>
+<p><strong>Stay tuned for more updates, here and in our Discord server</strong></p>]]></content:encoded>
+            <category>coming-soon</category>
+            <category>soon</category>
+            <category>features</category>
+        </item>
+    </channel>
+</rss>

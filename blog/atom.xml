@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://docs.echoenterprises.net/blog</id>
+    <title>Echo Enterprises Blog</title>
+    <updated>2024-03-26T03:26:44.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://docs.echoenterprises.net/blog"/>
+    <subtitle>Echo Enterprises Blog</subtitle>
+    <icon>https://docs.echoenterprises.net/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Coming Soon]]></title>
+        <id>https://docs.echoenterprises.net/blog/coming-soon</id>
+        <link href="https://docs.echoenterprises.net/blog/coming-soon"/>
+        <updated>2024-03-26T03:26:44.000Z</updated>
+        <summary type="html"><![CDATA[More information about our blog posts!]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to the official Echo Enterprises Blog!</p>
+<p>Here is where important updates will be posted relating to Echo Enterprises, such as new contents!</p>
+<p><strong>Stay tuned for more updates, here and in our Discord server</strong></p>]]></content>
+        <author>
+            <name>Izen</name>
+            <uri>https://github.com/maybeizen</uri>
+        </author>
+        <category label="coming-soon" term="coming-soon"/>
+        <category label="soon" term="soon"/>
+        <category label="features" term="features"/>
+    </entry>
+</feed>
