@@ -1,46 +1,45 @@
-import clsx from 'clsx';
-import Heading from '@theme/Heading';
-import styles from './styles.module.css';
+import clsx from "clsx";
+import Heading from "@theme/Heading";
+import styles from "./styles.module.css";
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: "Modpacks",
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Echo Enterprises offers carefully curated Minecraft modpacks, tailored
+        for diverse playstyles. Dive into epic adventures or unleash your
+        creativity with our mods. Join our community for an unparalleled gaming
+        experience!
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: "Discord Bots",
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Echo Enterprises delivers finely-tuned bots designed to enhance your
+        Discord experience. Our bots are tailored to cater to various needs,
+        from moderation to entertainment. Join our Discord community to access
+        these powerful tools and elevate your server's functionality and fun!.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: "Servers",
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Echo Enterprises offers immersive multiplayer servers for all
+        playstyles. Join us for unforgettable adventures and community fun!
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({ title, description }) {
   return (
-    <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
-      </div>
+    <div className={clsx("col col--4")}>
+      <div className="text--center"></div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
         <p>{description}</p>
