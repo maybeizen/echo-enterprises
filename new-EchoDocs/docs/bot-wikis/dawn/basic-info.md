@@ -19,4 +19,4 @@ Here are just a few things that _Dawn_ does:
 - User-Based Profiles 👤
 - and MORE...
 
-Interested in all of the epic things that Dawn does? Check out [this page](https://refactored-waffle-jxvq54gjvgv25qxj-3000.app.github.dev/docs/bot-wikis/dawn/commands)
+Interested in all of the epic things that Dawn does? Check out [this page](https://docs.echoenterprises.net/docs/bot-wikis/dawn/commands/about)

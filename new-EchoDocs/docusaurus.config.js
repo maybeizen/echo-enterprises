@@ -13,18 +13,19 @@ const config = {
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://wiki.echoenterprises.net",
+  url: "https://docs.echoenterprises.net",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  organizationName: "maybeizen", // Usually your GitHub org/user name.
+  projectName: "echo-enterprises", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
+  trailingSlash: false,
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -76,7 +77,7 @@ const config = {
           },
           { to: "/blog", label: "Blog", position: "left" },
           {
-            href: "https://github.com/echo-enterprises",
+            href: "https://github.com/maybeizen/echo-enterprises",
             label: "GitHub",
             position: "right",
           },
@@ -90,7 +91,7 @@ const config = {
             items: [
               {
                 label: "Go to Docs",
-                to: "/docs/intro",
+                to: "/docs/about",
               },
             ],
           },
@@ -116,12 +117,12 @@ const config = {
               },
               {
                 label: "GitHub",
-                href: "https://github.com/echo-enterprises/",
+                href: "https://github.com/maybeizen/echo-enterprises/",
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Echo Interprises || Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Echo Interprises. Built with <b>Docusaurus</b>`,
       },
       prism: {
         theme: prismThemes.github,
