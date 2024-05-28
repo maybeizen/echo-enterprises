@@ -1,0 +1,5 @@
+.env
+
+node_modules
+
+source/messages/_messages_.log
